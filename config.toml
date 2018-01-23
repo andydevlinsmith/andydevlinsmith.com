@@ -3,7 +3,7 @@ baseURL = "https://andydevlinsmith.com/"
 languageCode = "en-US"
 title = "Andy Smith"
 # theme = "hugo-split-theme"
-theme = "quickstart"
+theme = "hugo-split-theme"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
 staticDir = ["static"]
 
@@ -26,9 +26,10 @@ googleAnalytics = ""
 
   # Section - Content
   [params.content]
-    name = "Andy Smith"
-    tagline = "Developer. Writer. Artist."
-    bio = "Developer and clean energy enthusiast in Durham, NC."
+    name = "Andy Devlin Smith"
+    tagline = "Clean         tech developer."
+		# "Developer. Writer. Artist. Aardvark."
+    bio = "Web developer and clean energy enthusiast."
 
   # Section - Visual
   [params.visual]
