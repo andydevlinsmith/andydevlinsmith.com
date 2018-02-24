@@ -14,9 +14,9 @@ googleAnalytics = ""
 
   # Metadata for search engines and social sharing
   name = "Andy Smith"
-  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
+  description = "Clean tech developer."
   shareImage = "images/mug.jpg"
-  twitterHandle = "onepagelove"
+#  twitterHandle = "onepagelove"
 
   # Favicon
   favicon = "favicon.ico"
